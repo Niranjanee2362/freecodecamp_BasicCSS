@@ -5,8 +5,6 @@
 
   p {
     font-size: 16px;
-  }
-  p{
     font-family: monospace;
   }
 </style>
